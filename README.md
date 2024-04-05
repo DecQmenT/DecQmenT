@@ -1,6 +1,6 @@
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-# 🖐🏻 Hi
+# 🖐🏻 About me
 Hello, my name is Earn who love programming
 
 ## 📭 Contact me
@@ -16,4 +16,3 @@ Hello, my name is Earn who love programming
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
